@@ -1,0 +1,8 @@
+PAYFLOW — START HERE
+
+Read README.md from top to bottom. It contains the full zero-to-deployment walkthrough and all code is in this folder.
+
+IMPORTANT:
+- Educational wallet demo only. No real money or payment gateway.
+- Use TiDB Cloud Starter as the MySQL-compatible database if you don't know your local MySQL root password.
+- Never share or commit server/.env or your database/JWT secrets.
